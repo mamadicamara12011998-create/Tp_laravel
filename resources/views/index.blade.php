@@ -7,6 +7,6 @@
     <title>index php</title>
 </head>
 <body>
-<h1>Bienvenue sur notre page INDEX!!!</h1>
+<h1>Bienvenue sur notre page INDEX</h1>
 </body>
 </html>
